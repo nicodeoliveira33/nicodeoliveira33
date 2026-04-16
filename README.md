@@ -1,16 +1,17 @@
 ## Hi there 👋
+# Hi, I'm Nicolas! 👋
 
-<!--
-**nicodeoliveira33/nicodeoliveira33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Software Engineering Student @ 42 Lisboa
+Estou atualmente a percorrer o Common Core da 42, focado em aprender a base da computação e a linguagem C.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ O que estou a aprender agora:
+* **Linguagem C:** Libft (concluída ✅) e Get_next_line (em progresso ⏳).
+* **Git & GitHub:** Gestão de repositórios e versionamento.
+* **Algoritmos e Lógica:** Resolução de problemas complexos na 42.
+
+---
+
+### 📫 Como me encontrar:
+* **LinkedIn:** [www.linkedin.com/in/nicodeoliveira]
