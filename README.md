@@ -25,7 +25,3 @@ I am building a solid foundation in **C Programming**, solving complex problems 
 [![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicodeoliveira33)
 
 ---
-
-### 📊 GitHub Stats
-![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicodeoliveira33&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicodeoliveira33&layout=compact&theme=tokyonight)
