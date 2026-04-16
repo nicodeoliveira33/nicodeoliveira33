@@ -1,17 +1,32 @@
-## Hi there 👋
-# Hi, I'm Nicolas! 👋
+# Hi there, I'm Nicolas! 👋
 
 ### 👨‍💻 Software Engineering Student @ 42 Lisboa
-Estou atualmente a percorrer o Common Core da 42, focado em aprender a base da computação e a linguagem C.
+I am a passionate learner currently navigating the **42 Common Core**, focused on mastering low-level programming, algorithms, and software architecture.
 
 ---
 
-### 🛠️ O que estou a aprender agora:
-* **Linguagem C:** Libft (concluída ✅) e Get_next_line (em progresso ⏳).
-* **Git & GitHub:** Gestão de repositórios e versionamento.
-* **Algoritmos e Lógica:** Resolução de problemas complexos na 42.
+### 🚀 My Journey at 42
+I am building a solid foundation in **C Programming**, solving complex problems one line at a time.
+
+- 📗 **Libft**: My own C library, recreating standard functions (Completed with 100% ✅)
+- 📘 **Get_next_line**: Mastering file descriptors and static variables (In Progress ⏳)
+- 📂 **Upcoming**: Born2BeRoot, So_long, and Minitalk.
 
 ---
 
-### 📫 Como me encontrar:
-* **LinkedIn:** [www.linkedin.com/in/nicodeoliveira]
+### 🛠️ Tech Stack & Tools
+- **Language:** C (Mastering pointers, memory management, and data structures)
+- **Environment:** Unix/Linux (Shell, Makefile)
+- **Version Control:** Git & GitHub
+
+---
+
+### 📫 Connect with me:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicodeoliveira)
+[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicodeoliveira33)
+
+---
+
+### 📊 GitHub Stats
+![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicodeoliveira33&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicodeoliveira33&layout=compact&theme=tokyonight)
