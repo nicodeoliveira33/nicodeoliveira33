@@ -10,7 +10,6 @@ I am building a solid foundation in **C Programming**, solving complex problems 
 
 - 📗 **Libft**: My own C library, recreating standard functions (Completed with 100% ✅)
 - 📘 **Get_next_line**: Mastering file descriptors and static variables (In Progress ⏳)
-- 📂 **Upcoming**: Born2BeRoot, So_long, and Minitalk.
 
 ---
 
