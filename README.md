@@ -8,10 +8,10 @@ I am a passionate learner currently navigating the **42 Common Core**, focused o
 ### 🚀 My Journey at 42
 I am building a solid foundation in **C Programming**, solving complex problems one line at a time.
 
-- 📗 **Libft**: My own C library, recreating standard functions (Completed with 100% ✅)
-- 📘 **Get_next_line**: Mastering file descriptors and static variables (Completed with 100% ✅)
-- 📔 **ft_printf**: Recreating the standard printf function (Completed with 100% ✅)
-- 📦 **Push_swap**: Sorting data on a stack, with a limited set of instructions, and the smallest number of moves possible (In Progress 🛠️)
+- 📗 **`Libft`** My own C library, recreating standard functions (Completed with 100% ✅)
+- 📘 **`Get_next_line`**: Mastering file descriptors and static variables (Completed with 100% ✅)
+- 📔 **`Ft_printf`**: Recreating the standard printf function (Completed with 100% ✅)
+- 📦 **`Push_swap`**: Sorting data on a stack, with a limited set of instructions, and the smallest number of moves possible (In Progress 🛠️)
 
 ---
 
