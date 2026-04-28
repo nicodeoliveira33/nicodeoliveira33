@@ -10,7 +10,8 @@ I am building a solid foundation in **C Programming**, solving complex problems 
 
 - 📗 **Libft**: My own C library, recreating standard functions (Completed with 100% ✅)
 - 📘 **Get_next_line**: Mastering file descriptors and static variables (Completed with 100% ✅)
-- 📔 **ft_printf**: Recreating the standard printf function (In Progress ⏳)
+- 📔 **ft_printf**: Recreating the standard printf function (Completed with 100% ✅)
+- 📦 **Push_swap**: Sorting data on a stack, with a limited set of instructions, and the smallest number of moves possible (In Progress 🛠️)
 
 ---
 
