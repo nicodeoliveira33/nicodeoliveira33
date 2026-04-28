@@ -9,7 +9,7 @@ I am a passionate learner currently navigating the **42 Common Core**, focused o
 I am building a solid foundation in **C Programming**, solving complex problems one line at a time.
 
 - 📗 **Libft**: My own C library, recreating standard functions (Completed with 100% ✅)
-- 📘 **Get_next_line**: Mastering file descriptors and static variables (In Progress ⏳)
+- 📘 **Get_next_line**: Mastering file descriptors and static variables (Completed with 100% ✅)
 - 📔 **ft_printf**: Recreating the standard printf function (In Progress ⏳)
 
 ---
