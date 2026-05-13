@@ -6,19 +6,25 @@ I am a passionate learner currently navigating the **42 Common Core**, focused o
 ---
 
 ### 🚀 My Journey at 42
-I am building a solid foundation in **C Programming**, solving complex problems one line at a time.
 
-- 📗 **`Libft`** My own C library, recreating standard functions (Completed with 100% ✅)
-- 📘 **`Get_next_line`**: Mastering file descriptors and static variables (Completed with 100% ✅)
-- 📔 **`Ft_printf`**: Recreating the standard printf function (Completed with 100% ✅)
-- 📦 **`Push_swap`**: Sorting data on a stack, with a limited set of instructions, and the smallest number of moves possible (In Progress 🛠️)
+#### 🔵 C Language (Low-Level & Logic)
+* **📗 Libft**: My own C library, recreating standard functions (Completed with 100% ✅)
+* **📘 Get_next_line**: Mastering file descriptors and static variables (Completed with 100% ✅)
+* **📜 Ft_printf**: Recreating the standard printf function (Completed with 100% ✅)
+* **📦 Push_swap**: Sorting data on a stack with limited instructions (In Progress 🛠️)
+
+
+#### 🐍 Python & Data Science
+* **🛰️ Python for Data Science Piscine**: Mastering Pythonic conventions, data structures, and analysis tools (In Progress 🛠️)
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Language:** C (Mastering pointers, memory management, and data structures)
-- **Environment:** Unix/Linux (Shell, Makefile)
-- **Version Control:** Git & GitHub
+
+* **Languages**: C (Pointers & Memory Management), Python (Data Structures & Analysis)
+* **Environment**: Unix/Linux (Shell, Makefile), Virtual Environments (venv)
+* **Quality & Linting**: Flake8, Mypy, Norminette
+* **Version Control**: Git & GitHub
 
 ---
 
