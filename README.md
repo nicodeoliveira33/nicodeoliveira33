@@ -1,4 +1,4 @@
-Hi there, I'm Nicolas! 👋
+## Hi there, I'm Nicolas! 👋
 
 👨‍💻 Software Engineering Student @ 42 Lisboa
 
