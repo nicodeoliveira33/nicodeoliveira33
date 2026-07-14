@@ -15,7 +15,7 @@ I am a passionate learner currently navigating the 42 curriculum, focused on mas
 * 📦 **Push_swap**: Optimizing data sorting on a stack using constrained instruction sets (Completed with 100% ✅)
 
 🐍 Python, Data Engineering & Architecture
-* 🛰️ **Python for Data Science & Data Engineering Piscine** (Completed ✅)
+* 🛰️ **Python for Data Science & Data Engineering Piscine** (Completed with 100% ✅)
   * Developed a solid mastery of Pythonic conventions, clean architectures, and automated pipelines.
   * Deep dived into Object-Oriented Design (Inheritance, Overriding, Encapsulation via Nested Classes).
   * Built defensive code structures featuring Exception Hierarchies, Type Hinting (`Mypy`), and strict static analysis.
