@@ -15,7 +15,7 @@ I am a passionate learner currently navigating the 42 curriculum, focused on mas
 * 📦 **Push_swap**: Optimizing data sorting on a stack using constrained instruction sets (Completed with 100% ✅)
 
 🐍 Python, Data Engineering & Architecture
-* 🌀 **A-Maze-ing (v2.2)**: Advanced Maze Generator & Reusable Package (Completed ✅)
+* 🌀 **A-Maze-ing (v2.2)**: Advanced Maze Generator & Reusable Package (Completed with 100% ✅)
   * Implemented an algorithmic maze generator with terminal interactive visualizers using `curses` (ASCII/ANSI rendering, custom colors, shortest-path toggles).
   * Engineered a fully reusable, pip-installable module (`mazegen-*` wheel/tarball) under standard software licensing.
   * Added bonus features including a fully "braided" maze generation mode (0 dead-ends) and generation step animations.
