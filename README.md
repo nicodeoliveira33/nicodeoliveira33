@@ -19,6 +19,7 @@ I am a passionate learner currently navigating the 42 curriculum, focused on mas
   * Implemented an algorithmic maze generator with terminal interactive visualizers using `curses` (ASCII/ANSI rendering, custom colors, shortest-path toggles).
   * Engineered a fully reusable, pip-installable module (`mazegen-*` wheel/tarball) under standard software licensing.
   * Added bonus features including a fully "braided" maze generation mode (0 dead-ends) and generation step animations.
+    
 * 🛰️ **Python for Data Science & Data Engineering Piscine** (Completed with 100% ✅)
   * Developed a solid mastery of Pythonic conventions, clean architectures, and automated pipelines.
   * Deep dived into Object-Oriented Design (Inheritance, Overriding, Encapsulation via Nested Classes).
